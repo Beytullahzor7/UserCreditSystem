@@ -1,2 +1,2 @@
-GİTHUB : https://github.com/hamitmizrak/UserCreditSystem
+GİTHUB : https://github.com/beytullahzor7/UserCreditSystem
 SWAGGER: http://localhost:8080/swagger-ui/index.html
