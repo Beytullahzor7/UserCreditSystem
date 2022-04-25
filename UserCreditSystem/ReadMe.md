@@ -10,13 +10,13 @@
 
 **All requirements checked on postman**
 
-![mainpage](https://user-images.githubusercontent.com/62347094/155885282-ebf782c3-acf2-4f65-b760-aefaa4331851.PNG)
+<img src="https://user-images.githubusercontent.com/62347094/155885282-ebf782c3-acf2-4f65-b760-aefaa4331851.PNG" width="80%" height="80%" />
 
-![adduser](https://user-images.githubusercontent.com/62347094/155902111-41a9c1b5-4be5-43c2-9ce2-e14e439d045f.PNG)
+<img src="https://user-images.githubusercontent.com/62347094/155902111-41a9c1b5-4be5-43c2-9ce2-e14e439d045f.PNG" width="50%" height="50%" />
 
-![result](https://user-images.githubusercontent.com/62347094/156217744-0b1c8d04-a05c-44b1-acfb-1d9a8a95e890.PNG)
+<img src="https://user-images.githubusercontent.com/62347094/156217744-0b1c8d04-a05c-44b1-acfb-1d9a8a95e890.PNG" width="80%" height="80%" />
 
-![swagger](https://user-images.githubusercontent.com/62347094/155885887-fd701de8-a767-472d-aaca-6e852dcfe7e1.PNG)
+<img src="https://user-images.githubusercontent.com/62347094/155885887-fd701de8-a767-472d-aaca-6e852dcfe7e1.PNG" width="80%" height="80%" />
 
 ## Tools which I used in this project
 
